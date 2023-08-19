@@ -1,0 +1,826 @@
+[
+  {
+    "name": "@zbwer/analysis-tool",
+    "value": "^1.1.0",
+    "id": "@zbwer/analysis-tool",
+    "size": 12,
+    "depth": 1,
+    "color": "#5D78F3"
+  },
+  {
+    "name": "boxen",
+    "value": "^5.1.2",
+    "id": "boxen",
+    "size": 12,
+    "depth": 2,
+    "color": "#E9BBC7"
+  },
+  {
+    "name": "ansi-align",
+    "value": "^3.0.0",
+    "id": "ansi-align",
+    "size": 12,
+    "depth": 3,
+    "color": "#4B9C73"
+  },
+  {
+    "name": "string-width",
+    "value": "^4.1.0",
+    "id": "string-width",
+    "size": 12,
+    "depth": 4,
+    "color": "#E7C941"
+  },
+  {
+    "name": "eastasianwidth",
+    "value": "^0.2.0",
+    "id": "eastasianwidth",
+    "size": 12,
+    "depth": 5,
+    "color": "#131B87"
+  },
+  {
+    "name": "emoji-regex",
+    "value": "^9.2.2",
+    "id": "emoji-regex",
+    "size": 12,
+    "depth": 5,
+    "color": "#B110F0"
+  },
+  {
+    "name": "strip-ansi",
+    "value": "^7.0.1",
+    "id": "strip-ansi",
+    "size": 12,
+    "depth": 5,
+    "color": "#B422FF"
+  },
+  {
+    "name": "ansi-regex",
+    "value": "^6.0.1",
+    "id": "ansi-regex",
+    "size": 12,
+    "depth": 6,
+    "color": "#307920"
+  },
+  {
+    "name": "camelcase",
+    "value": "^6.2.0",
+    "id": "camelcase",
+    "size": 12,
+    "depth": 3,
+    "color": "#B7ECCC"
+  },
+  {
+    "name": "chalk",
+    "value": "^4.1.0",
+    "id": "chalk",
+    "size": 12,
+    "depth": 3,
+    "color": "#912DA5"
+  },
+  {
+    "name": "ansi-styles",
+    "value": "^4.1.0",
+    "id": "ansi-styles",
+    "size": 12,
+    "depth": 4,
+    "color": "#47DA93"
+  },
+  {
+    "name": "supports-color",
+    "value": "^7.1.0",
+    "id": "supports-color",
+    "size": 12,
+    "depth": 4,
+    "color": "#BE1936"
+  },
+  {
+    "name": "has-flag",
+    "value": "^4.0.0",
+    "id": "has-flag",
+    "size": 12,
+    "depth": 5,
+    "color": "#525F60"
+  },
+  {
+    "name": "cli-boxes",
+    "value": "^2.2.1",
+    "id": "cli-boxes",
+    "size": 12,
+    "depth": 3,
+    "color": "#63886E"
+  },
+  {
+    "name": "type-fest",
+    "value": "^0.20.2",
+    "id": "type-fest",
+    "size": 12,
+    "depth": 3,
+    "color": "#C01DF2"
+  },
+  {
+    "name": "widest-line",
+    "value": "^3.1.0",
+    "id": "widest-line",
+    "size": 12,
+    "depth": 3,
+    "color": "#083067"
+  },
+  {
+    "name": "wrap-ansi",
+    "value": "^7.0.0",
+    "id": "wrap-ansi",
+    "size": 12,
+    "depth": 3,
+    "color": "#D024BA"
+  },
+  {
+    "name": "commander",
+    "value": "^11.0.0",
+    "id": "commander",
+    "size": 12,
+    "depth": 2,
+    "color": "#E843A2"
+  },
+  {
+    "name": "child_process",
+    "value": "^1.0.2",
+    "id": "child_process",
+    "size": 12,
+    "depth": 1,
+    "color": "#627C6C"
+  },
+  {
+    "name": "cors",
+    "value": "^2.8.5",
+    "id": "cors",
+    "size": 12,
+    "depth": 1,
+    "color": "#69160C"
+  },
+  {
+    "name": "object-assign",
+    "value": "^4",
+    "id": "object-assign",
+    "size": 12,
+    "depth": 2,
+    "color": "#C4B42A"
+  },
+  {
+    "name": "vary",
+    "value": "^1",
+    "id": "vary",
+    "size": 12,
+    "depth": 2,
+    "color": "#9FAED8"
+  },
+  {
+    "name": "express",
+    "value": "^4.18.2",
+    "id": "express",
+    "size": 12,
+    "depth": 1,
+    "color": "#B3C907"
+  },
+  {
+    "name": "accepts",
+    "value": "~1.3.8",
+    "id": "accepts",
+    "size": 12,
+    "depth": 2,
+    "color": "#EEBA79"
+  },
+  {
+    "name": "mime-types",
+    "value": "~2.1.34",
+    "id": "mime-types",
+    "size": 12,
+    "depth": 3,
+    "color": "#A30061"
+  },
+  {
+    "name": "mime-db",
+    "value": "1.52.0",
+    "id": "mime-db",
+    "size": 12,
+    "depth": 4,
+    "color": "#FD3A3C"
+  },
+  {
+    "name": "negotiator",
+    "value": "0.6.3",
+    "id": "negotiator",
+    "size": 12,
+    "depth": 3,
+    "color": "#FDE651"
+  },
+  {
+    "name": "array-flatten",
+    "value": "1.1.1",
+    "id": "array-flatten",
+    "size": 12,
+    "depth": 2,
+    "color": "#B8D2D5"
+  },
+  {
+    "name": "body-parser",
+    "value": "1.20.1",
+    "id": "body-parser",
+    "size": 12,
+    "depth": 2,
+    "color": "#E99C9D"
+  },
+  {
+    "name": "bytes",
+    "value": "3.1.2",
+    "id": "bytes",
+    "size": 12,
+    "depth": 3,
+    "color": "#450373"
+  },
+  {
+    "name": "content-type",
+    "value": "~1.0.4",
+    "id": "content-type",
+    "size": 12,
+    "depth": 3,
+    "color": "#2FA402"
+  },
+  {
+    "name": "debug",
+    "value": "2.6.9",
+    "id": "debug",
+    "size": 12,
+    "depth": 3,
+    "color": "#EE8198"
+  },
+  {
+    "name": "ms",
+    "value": "2.0.0",
+    "id": "ms",
+    "size": 12,
+    "depth": 4,
+    "color": "#735C3D"
+  },
+  {
+    "name": "depd",
+    "value": "2.0.0",
+    "id": "depd",
+    "size": 12,
+    "depth": 3,
+    "color": "#BF5AA6"
+  },
+  {
+    "name": "destroy",
+    "value": "1.2.0",
+    "id": "destroy",
+    "size": 12,
+    "depth": 3,
+    "color": "#58603B"
+  },
+  {
+    "name": "http-errors",
+    "value": "2.0.0",
+    "id": "http-errors",
+    "size": 12,
+    "depth": 3,
+    "color": "#F0A737"
+  },
+  {
+    "name": "inherits",
+    "value": "2.0.4",
+    "id": "inherits",
+    "size": 12,
+    "depth": 4,
+    "color": "#BBA287"
+  },
+  {
+    "name": "setprototypeof",
+    "value": "1.2.0",
+    "id": "setprototypeof",
+    "size": 12,
+    "depth": 4,
+    "color": "#C71E0D"
+  },
+  {
+    "name": "statuses",
+    "value": "2.0.1",
+    "id": "statuses",
+    "size": 12,
+    "depth": 4,
+    "color": "#E01F8C"
+  },
+  {
+    "name": "toidentifier",
+    "value": "1.0.1",
+    "id": "toidentifier",
+    "size": 12,
+    "depth": 4,
+    "color": "#40B743"
+  },
+  {
+    "name": "iconv-lite",
+    "value": "0.4.24",
+    "id": "iconv-lite",
+    "size": 12,
+    "depth": 3,
+    "color": "#126A35"
+  },
+  {
+    "name": "safer-buffer",
+    "value": ">= 2.1.2 < 3",
+    "id": "safer-buffer",
+    "size": 12,
+    "depth": 4,
+    "color": "#D6F55F"
+  },
+  {
+    "name": "on-finished",
+    "value": "2.4.1",
+    "id": "on-finished",
+    "size": 12,
+    "depth": 3,
+    "color": "#222C3E"
+  },
+  {
+    "name": "ee-first",
+    "value": "1.1.1",
+    "id": "ee-first",
+    "size": 12,
+    "depth": 4,
+    "color": "#E25436"
+  },
+  {
+    "name": "qs",
+    "value": "6.11.0",
+    "id": "qs",
+    "size": 12,
+    "depth": 3,
+    "color": "#4C38F1"
+  },
+  {
+    "name": "side-channel",
+    "value": "^1.0.4",
+    "id": "side-channel",
+    "size": 12,
+    "depth": 4,
+    "color": "#025B1F"
+  },
+  {
+    "name": "call-bind",
+    "value": "^1.0.0",
+    "id": "call-bind",
+    "size": 12,
+    "depth": 5,
+    "color": "#17F87B"
+  },
+  {
+    "name": "function-bind",
+    "value": "^1.1.1",
+    "id": "function-bind",
+    "size": 12,
+    "depth": 6,
+    "color": "#83A3A2"
+  },
+  {
+    "name": "get-intrinsic",
+    "value": "^1.0.2",
+    "id": "get-intrinsic",
+    "size": 12,
+    "depth": 6,
+    "color": "#1B67E8"
+  },
+  {
+    "name": "has",
+    "value": "^1.0.3",
+    "id": "has",
+    "size": 12,
+    "depth": 7,
+    "color": "#97B901"
+  },
+  {
+    "name": "has-proto",
+    "value": "^1.0.1",
+    "id": "has-proto",
+    "size": 12,
+    "depth": 7,
+    "color": "#2BD827"
+  },
+  {
+    "name": "has-symbols",
+    "value": "^1.0.3",
+    "id": "has-symbols",
+    "size": 12,
+    "depth": 7,
+    "color": "#D8936A"
+  },
+  {
+    "name": "object-inspect",
+    "value": "^1.9.0",
+    "id": "object-inspect",
+    "size": 12,
+    "depth": 5,
+    "color": "#3905C0"
+  },
+  {
+    "name": "raw-body",
+    "value": "2.5.1",
+    "id": "raw-body",
+    "size": 12,
+    "depth": 3,
+    "color": "#33FDB0"
+  },
+  {
+    "name": "unpipe",
+    "value": "1.0.0",
+    "id": "unpipe",
+    "size": 12,
+    "depth": 4,
+    "color": "#AE2BD2"
+  },
+  {
+    "name": "type-is",
+    "value": "~1.6.18",
+    "id": "type-is",
+    "size": 12,
+    "depth": 3,
+    "color": "#4077F0"
+  },
+  {
+    "name": "media-typer",
+    "value": "0.3.0",
+    "id": "media-typer",
+    "size": 12,
+    "depth": 4,
+    "color": "#519BD1"
+  },
+  {
+    "name": "content-disposition",
+    "value": "0.5.4",
+    "id": "content-disposition",
+    "size": 12,
+    "depth": 2,
+    "color": "#A4CCB7"
+  },
+  {
+    "name": "safe-buffer",
+    "value": "5.2.1",
+    "id": "safe-buffer",
+    "size": 12,
+    "depth": 3,
+    "color": "#31AD98"
+  },
+  {
+    "name": "cookie",
+    "value": "0.5.0",
+    "id": "cookie",
+    "size": 12,
+    "depth": 2,
+    "color": "#EEEF94"
+  },
+  {
+    "name": "cookie-signature",
+    "value": "1.0.6",
+    "id": "cookie-signature",
+    "size": 12,
+    "depth": 2,
+    "color": "#8E7817"
+  },
+  {
+    "name": "encodeurl",
+    "value": "~1.0.2",
+    "id": "encodeurl",
+    "size": 12,
+    "depth": 2,
+    "color": "#F548AB"
+  },
+  {
+    "name": "escape-html",
+    "value": "~1.0.3",
+    "id": "escape-html",
+    "size": 12,
+    "depth": 2,
+    "color": "#043A4A"
+  },
+  {
+    "name": "etag",
+    "value": "~1.8.1",
+    "id": "etag",
+    "size": 12,
+    "depth": 2,
+    "color": "#8E0971"
+  },
+  {
+    "name": "finalhandler",
+    "value": "1.2.0",
+    "id": "finalhandler",
+    "size": 12,
+    "depth": 2,
+    "color": "#55BA84"
+  },
+  {
+    "name": "parseurl",
+    "value": "~1.3.3",
+    "id": "parseurl",
+    "size": 12,
+    "depth": 3,
+    "color": "#FC7937"
+  },
+  {
+    "name": "fresh",
+    "value": "0.5.2",
+    "id": "fresh",
+    "size": 12,
+    "depth": 2,
+    "color": "#D44CF3"
+  },
+  {
+    "name": "merge-descriptors",
+    "value": "1.0.1",
+    "id": "merge-descriptors",
+    "size": 12,
+    "depth": 2,
+    "color": "#94E32E"
+  },
+  {
+    "name": "methods",
+    "value": "~1.1.2",
+    "id": "methods",
+    "size": 12,
+    "depth": 2,
+    "color": "#DF9793"
+  },
+  {
+    "name": "path-to-regexp",
+    "value": "0.1.7",
+    "id": "path-to-regexp",
+    "size": 12,
+    "depth": 2,
+    "color": "#C9A4DC"
+  },
+  {
+    "name": "proxy-addr",
+    "value": "~2.0.7",
+    "id": "proxy-addr",
+    "size": 12,
+    "depth": 2,
+    "color": "#9B3406"
+  },
+  {
+    "name": "forwarded",
+    "value": "0.2.0",
+    "id": "forwarded",
+    "size": 12,
+    "depth": 3,
+    "color": "#D25E3F"
+  },
+  {
+    "name": "ipaddr.js",
+    "value": "1.9.1",
+    "id": "ipaddr.js",
+    "size": 12,
+    "depth": 3,
+    "color": "#6C5B6C"
+  },
+  {
+    "name": "range-parser",
+    "value": "~1.2.1",
+    "id": "range-parser",
+    "size": 12,
+    "depth": 2,
+    "color": "#68EAB2"
+  },
+  {
+    "name": "send",
+    "value": "0.18.0",
+    "id": "send",
+    "size": 12,
+    "depth": 2,
+    "color": "#B926E7"
+  },
+  {
+    "name": "mime",
+    "value": "1.6.0",
+    "id": "mime",
+    "size": 12,
+    "depth": 3,
+    "color": "#B4F39E"
+  },
+  {
+    "name": "serve-static",
+    "value": "1.15.0",
+    "id": "serve-static",
+    "size": 12,
+    "depth": 2,
+    "color": "#B9EAD0"
+  },
+  {
+    "name": "utils-merge",
+    "value": "1.0.1",
+    "id": "utils-merge",
+    "size": 12,
+    "depth": 2,
+    "color": "#5BCD3F"
+  },
+  {
+    "name": "fs",
+    "value": "^0.0.1-security",
+    "id": "fs",
+    "size": 12,
+    "depth": 1,
+    "color": "#068D19"
+  },
+  {
+    "name": "glob",
+    "value": "^10.3.3",
+    "id": "glob",
+    "size": 12,
+    "depth": 1,
+    "color": "#5E2261"
+  },
+  {
+    "name": "foreground-child",
+    "value": "^3.1.0",
+    "id": "foreground-child",
+    "size": 12,
+    "depth": 2,
+    "color": "#BC6626"
+  },
+  {
+    "name": "cross-spawn",
+    "value": "^7.0.0",
+    "id": "cross-spawn",
+    "size": 12,
+    "depth": 3,
+    "color": "#C400B7"
+  },
+  {
+    "name": "path-key",
+    "value": "^3.1.0",
+    "id": "path-key",
+    "size": 12,
+    "depth": 4,
+    "color": "#321B88"
+  },
+  {
+    "name": "shebang-command",
+    "value": "^2.0.0",
+    "id": "shebang-command",
+    "size": 12,
+    "depth": 4,
+    "color": "#59049A"
+  },
+  {
+    "name": "shebang-regex",
+    "value": "^3.0.0",
+    "id": "shebang-regex",
+    "size": 12,
+    "depth": 5,
+    "color": "#641A93"
+  },
+  {
+    "name": "which",
+    "value": "^2.0.1",
+    "id": "which",
+    "size": 12,
+    "depth": 4,
+    "color": "#A50564"
+  },
+  {
+    "name": "isexe",
+    "value": "^2.0.0",
+    "id": "isexe",
+    "size": 12,
+    "depth": 5,
+    "color": "#4F3E18"
+  },
+  {
+    "name": "signal-exit",
+    "value": "^4.0.1",
+    "id": "signal-exit",
+    "size": 12,
+    "depth": 3,
+    "color": "#E3C872"
+  },
+  {
+    "name": "jackspeak",
+    "value": "^2.0.3",
+    "id": "jackspeak",
+    "size": 12,
+    "depth": 2,
+    "color": "#AC9D00"
+  },
+  {
+    "name": "@isaacs/cliui",
+    "value": "^8.0.2",
+    "id": "@isaacs/cliui",
+    "size": 12,
+    "depth": 3,
+    "color": "#EE8EA0"
+  },
+  {
+    "name": "string-width-cjs",
+    "value": "npm:string-width@^4.2.0",
+    "id": "string-width-cjs",
+    "size": 12,
+    "depth": 4,
+    "color": "#7E6601"
+  },
+  {
+    "name": "is-fullwidth-code-point",
+    "value": "^3.0.0",
+    "id": "is-fullwidth-code-point",
+    "size": 12,
+    "depth": 5,
+    "color": "#9570D3"
+  },
+  {
+    "name": "strip-ansi-cjs",
+    "value": "npm:strip-ansi@^6.0.1",
+    "id": "strip-ansi-cjs",
+    "size": 12,
+    "depth": 4,
+    "color": "#479283"
+  },
+  {
+    "name": "wrap-ansi-cjs",
+    "value": "npm:wrap-ansi@^7.0.0",
+    "id": "wrap-ansi-cjs",
+    "size": 12,
+    "depth": 4,
+    "color": "#27BA3F"
+  },
+  {
+    "name": "minimatch",
+    "value": "^9.0.1",
+    "id": "minimatch",
+    "size": 12,
+    "depth": 2,
+    "color": "#032D2F"
+  },
+  {
+    "name": "brace-expansion",
+    "value": "^2.0.1",
+    "id": "brace-expansion",
+    "size": 12,
+    "depth": 3,
+    "color": "#400970"
+  },
+  {
+    "name": "balanced-match",
+    "value": "^1.0.0",
+    "id": "balanced-match",
+    "size": 12,
+    "depth": 4,
+    "color": "#80BD20"
+  },
+  {
+    "name": "minipass",
+    "value": "^5.0.0 || ^6.0.2 || ^7.0.0",
+    "id": "minipass",
+    "size": 12,
+    "depth": 2,
+    "color": "#544811"
+  },
+  {
+    "name": "path-scurry",
+    "value": "^1.10.1",
+    "id": "path-scurry",
+    "size": 12,
+    "depth": 2,
+    "color": "#A0B52F"
+  },
+  {
+    "name": "lru-cache",
+    "value": "^9.1.1 || ^10.0.0",
+    "id": "lru-cache",
+    "size": 12,
+    "depth": 3,
+    "color": "#585952"
+  },
+  {
+    "name": "path",
+    "value": "^0.12.7",
+    "id": "path",
+    "size": 12,
+    "depth": 1,
+    "color": "#CDD1D9"
+  },
+  {
+    "name": "process",
+    "value": "^0.11.1",
+    "id": "process",
+    "size": 12,
+    "depth": 2,
+    "color": "#1F0DE1"
+  },
+  {
+    "name": "util",
+    "value": "^0.10.3",
+    "id": "util",
+    "size": 12,
+    "depth": 2,
+    "color": "#F7C703"
+  }
+]

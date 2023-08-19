@@ -1,0 +1,1066 @@
+[
+  {
+    "sourceID": "panz-cli",
+    "targetID": "@zbwer/analysis-tool"
+  },
+  {
+    "sourceID": "@zbwer/analysis-tool",
+    "targetID": "boxen"
+  },
+  {
+    "sourceID": "boxen",
+    "targetID": "ansi-align"
+  },
+  {
+    "sourceID": "ansi-align",
+    "targetID": "string-width"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "eastasianwidth"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "emoji-regex"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "strip-ansi"
+  },
+  {
+    "sourceID": "strip-ansi",
+    "targetID": "ansi-regex"
+  },
+  {
+    "sourceID": "boxen",
+    "targetID": "camelcase"
+  },
+  {
+    "sourceID": "boxen",
+    "targetID": "chalk"
+  },
+  {
+    "sourceID": "chalk",
+    "targetID": "ansi-styles"
+  },
+  {
+    "sourceID": "chalk",
+    "targetID": "supports-color"
+  },
+  {
+    "sourceID": "supports-color",
+    "targetID": "has-flag"
+  },
+  {
+    "sourceID": "boxen",
+    "targetID": "cli-boxes"
+  },
+  {
+    "sourceID": "boxen",
+    "targetID": "string-width"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "eastasianwidth"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "emoji-regex"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "strip-ansi"
+  },
+  {
+    "sourceID": "strip-ansi",
+    "targetID": "ansi-regex"
+  },
+  {
+    "sourceID": "boxen",
+    "targetID": "type-fest"
+  },
+  {
+    "sourceID": "boxen",
+    "targetID": "widest-line"
+  },
+  {
+    "sourceID": "widest-line",
+    "targetID": "string-width"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "eastasianwidth"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "emoji-regex"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "strip-ansi"
+  },
+  {
+    "sourceID": "strip-ansi",
+    "targetID": "ansi-regex"
+  },
+  {
+    "sourceID": "boxen",
+    "targetID": "wrap-ansi"
+  },
+  {
+    "sourceID": "wrap-ansi",
+    "targetID": "ansi-styles"
+  },
+  {
+    "sourceID": "wrap-ansi",
+    "targetID": "string-width"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "eastasianwidth"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "emoji-regex"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "strip-ansi"
+  },
+  {
+    "sourceID": "strip-ansi",
+    "targetID": "ansi-regex"
+  },
+  {
+    "sourceID": "wrap-ansi",
+    "targetID": "strip-ansi"
+  },
+  {
+    "sourceID": "strip-ansi",
+    "targetID": "ansi-regex"
+  },
+  {
+    "sourceID": "@zbwer/analysis-tool",
+    "targetID": "chalk"
+  },
+  {
+    "sourceID": "chalk",
+    "targetID": "ansi-styles"
+  },
+  {
+    "sourceID": "chalk",
+    "targetID": "supports-color"
+  },
+  {
+    "sourceID": "supports-color",
+    "targetID": "has-flag"
+  },
+  {
+    "sourceID": "@zbwer/analysis-tool",
+    "targetID": "commander"
+  },
+  {
+    "sourceID": "panz-cli",
+    "targetID": "child_process"
+  },
+  {
+    "sourceID": "panz-cli",
+    "targetID": "commander"
+  },
+  {
+    "sourceID": "panz-cli",
+    "targetID": "cors"
+  },
+  {
+    "sourceID": "cors",
+    "targetID": "object-assign"
+  },
+  {
+    "sourceID": "cors",
+    "targetID": "vary"
+  },
+  {
+    "sourceID": "panz-cli",
+    "targetID": "express"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "accepts"
+  },
+  {
+    "sourceID": "accepts",
+    "targetID": "mime-types"
+  },
+  {
+    "sourceID": "mime-types",
+    "targetID": "mime-db"
+  },
+  {
+    "sourceID": "accepts",
+    "targetID": "negotiator"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "array-flatten"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "body-parser"
+  },
+  {
+    "sourceID": "body-parser",
+    "targetID": "bytes"
+  },
+  {
+    "sourceID": "body-parser",
+    "targetID": "content-type"
+  },
+  {
+    "sourceID": "body-parser",
+    "targetID": "debug"
+  },
+  {
+    "sourceID": "debug",
+    "targetID": "ms"
+  },
+  {
+    "sourceID": "body-parser",
+    "targetID": "depd"
+  },
+  {
+    "sourceID": "body-parser",
+    "targetID": "destroy"
+  },
+  {
+    "sourceID": "body-parser",
+    "targetID": "http-errors"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "depd"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "inherits"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "setprototypeof"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "statuses"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "toidentifier"
+  },
+  {
+    "sourceID": "body-parser",
+    "targetID": "iconv-lite"
+  },
+  {
+    "sourceID": "iconv-lite",
+    "targetID": "safer-buffer"
+  },
+  {
+    "sourceID": "body-parser",
+    "targetID": "on-finished"
+  },
+  {
+    "sourceID": "on-finished",
+    "targetID": "ee-first"
+  },
+  {
+    "sourceID": "body-parser",
+    "targetID": "qs"
+  },
+  {
+    "sourceID": "qs",
+    "targetID": "side-channel"
+  },
+  {
+    "sourceID": "side-channel",
+    "targetID": "call-bind"
+  },
+  {
+    "sourceID": "call-bind",
+    "targetID": "function-bind"
+  },
+  {
+    "sourceID": "call-bind",
+    "targetID": "get-intrinsic"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "function-bind"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "has"
+  },
+  {
+    "sourceID": "has",
+    "targetID": "function-bind"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "has-proto"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "has-symbols"
+  },
+  {
+    "sourceID": "side-channel",
+    "targetID": "get-intrinsic"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "function-bind"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "has"
+  },
+  {
+    "sourceID": "has",
+    "targetID": "function-bind"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "has-proto"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "has-symbols"
+  },
+  {
+    "sourceID": "side-channel",
+    "targetID": "object-inspect"
+  },
+  {
+    "sourceID": "body-parser",
+    "targetID": "raw-body"
+  },
+  {
+    "sourceID": "raw-body",
+    "targetID": "bytes"
+  },
+  {
+    "sourceID": "raw-body",
+    "targetID": "http-errors"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "depd"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "inherits"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "setprototypeof"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "statuses"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "toidentifier"
+  },
+  {
+    "sourceID": "raw-body",
+    "targetID": "iconv-lite"
+  },
+  {
+    "sourceID": "iconv-lite",
+    "targetID": "safer-buffer"
+  },
+  {
+    "sourceID": "raw-body",
+    "targetID": "unpipe"
+  },
+  {
+    "sourceID": "body-parser",
+    "targetID": "type-is"
+  },
+  {
+    "sourceID": "type-is",
+    "targetID": "media-typer"
+  },
+  {
+    "sourceID": "type-is",
+    "targetID": "mime-types"
+  },
+  {
+    "sourceID": "mime-types",
+    "targetID": "mime-db"
+  },
+  {
+    "sourceID": "body-parser",
+    "targetID": "unpipe"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "content-disposition"
+  },
+  {
+    "sourceID": "content-disposition",
+    "targetID": "safe-buffer"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "content-type"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "cookie"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "cookie-signature"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "debug"
+  },
+  {
+    "sourceID": "debug",
+    "targetID": "ms"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "depd"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "encodeurl"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "escape-html"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "etag"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "finalhandler"
+  },
+  {
+    "sourceID": "finalhandler",
+    "targetID": "debug"
+  },
+  {
+    "sourceID": "debug",
+    "targetID": "ms"
+  },
+  {
+    "sourceID": "finalhandler",
+    "targetID": "encodeurl"
+  },
+  {
+    "sourceID": "finalhandler",
+    "targetID": "escape-html"
+  },
+  {
+    "sourceID": "finalhandler",
+    "targetID": "on-finished"
+  },
+  {
+    "sourceID": "on-finished",
+    "targetID": "ee-first"
+  },
+  {
+    "sourceID": "finalhandler",
+    "targetID": "parseurl"
+  },
+  {
+    "sourceID": "finalhandler",
+    "targetID": "statuses"
+  },
+  {
+    "sourceID": "finalhandler",
+    "targetID": "unpipe"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "fresh"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "http-errors"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "depd"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "inherits"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "setprototypeof"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "statuses"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "toidentifier"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "merge-descriptors"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "methods"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "on-finished"
+  },
+  {
+    "sourceID": "on-finished",
+    "targetID": "ee-first"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "parseurl"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "path-to-regexp"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "proxy-addr"
+  },
+  {
+    "sourceID": "proxy-addr",
+    "targetID": "forwarded"
+  },
+  {
+    "sourceID": "proxy-addr",
+    "targetID": "ipaddr.js"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "qs"
+  },
+  {
+    "sourceID": "qs",
+    "targetID": "side-channel"
+  },
+  {
+    "sourceID": "side-channel",
+    "targetID": "call-bind"
+  },
+  {
+    "sourceID": "call-bind",
+    "targetID": "function-bind"
+  },
+  {
+    "sourceID": "call-bind",
+    "targetID": "get-intrinsic"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "function-bind"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "has"
+  },
+  {
+    "sourceID": "has",
+    "targetID": "function-bind"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "has-proto"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "has-symbols"
+  },
+  {
+    "sourceID": "side-channel",
+    "targetID": "get-intrinsic"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "function-bind"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "has"
+  },
+  {
+    "sourceID": "has",
+    "targetID": "function-bind"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "has-proto"
+  },
+  {
+    "sourceID": "get-intrinsic",
+    "targetID": "has-symbols"
+  },
+  {
+    "sourceID": "side-channel",
+    "targetID": "object-inspect"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "range-parser"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "safe-buffer"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "send"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "debug"
+  },
+  {
+    "sourceID": "debug",
+    "targetID": "ms"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "depd"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "destroy"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "encodeurl"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "escape-html"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "etag"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "fresh"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "http-errors"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "depd"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "inherits"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "setprototypeof"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "statuses"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "toidentifier"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "mime"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "ms"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "on-finished"
+  },
+  {
+    "sourceID": "on-finished",
+    "targetID": "ee-first"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "range-parser"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "statuses"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "serve-static"
+  },
+  {
+    "sourceID": "serve-static",
+    "targetID": "encodeurl"
+  },
+  {
+    "sourceID": "serve-static",
+    "targetID": "escape-html"
+  },
+  {
+    "sourceID": "serve-static",
+    "targetID": "parseurl"
+  },
+  {
+    "sourceID": "serve-static",
+    "targetID": "send"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "debug"
+  },
+  {
+    "sourceID": "debug",
+    "targetID": "ms"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "depd"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "destroy"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "encodeurl"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "escape-html"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "etag"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "fresh"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "http-errors"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "depd"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "inherits"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "setprototypeof"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "statuses"
+  },
+  {
+    "sourceID": "http-errors",
+    "targetID": "toidentifier"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "mime"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "ms"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "on-finished"
+  },
+  {
+    "sourceID": "on-finished",
+    "targetID": "ee-first"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "range-parser"
+  },
+  {
+    "sourceID": "send",
+    "targetID": "statuses"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "setprototypeof"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "statuses"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "type-is"
+  },
+  {
+    "sourceID": "type-is",
+    "targetID": "media-typer"
+  },
+  {
+    "sourceID": "type-is",
+    "targetID": "mime-types"
+  },
+  {
+    "sourceID": "mime-types",
+    "targetID": "mime-db"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "utils-merge"
+  },
+  {
+    "sourceID": "express",
+    "targetID": "vary"
+  },
+  {
+    "sourceID": "panz-cli",
+    "targetID": "fs"
+  },
+  {
+    "sourceID": "panz-cli",
+    "targetID": "glob"
+  },
+  {
+    "sourceID": "glob",
+    "targetID": "foreground-child"
+  },
+  {
+    "sourceID": "foreground-child",
+    "targetID": "cross-spawn"
+  },
+  {
+    "sourceID": "cross-spawn",
+    "targetID": "path-key"
+  },
+  {
+    "sourceID": "cross-spawn",
+    "targetID": "shebang-command"
+  },
+  {
+    "sourceID": "shebang-command",
+    "targetID": "shebang-regex"
+  },
+  {
+    "sourceID": "cross-spawn",
+    "targetID": "which"
+  },
+  {
+    "sourceID": "which",
+    "targetID": "isexe"
+  },
+  {
+    "sourceID": "foreground-child",
+    "targetID": "signal-exit"
+  },
+  {
+    "sourceID": "glob",
+    "targetID": "jackspeak"
+  },
+  {
+    "sourceID": "jackspeak",
+    "targetID": "@isaacs/cliui"
+  },
+  {
+    "sourceID": "@isaacs/cliui",
+    "targetID": "string-width"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "eastasianwidth"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "emoji-regex"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "strip-ansi"
+  },
+  {
+    "sourceID": "strip-ansi",
+    "targetID": "ansi-regex"
+  },
+  {
+    "sourceID": "@isaacs/cliui",
+    "targetID": "string-width-cjs"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "emoji-regex"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "is-fullwidth-code-point"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "strip-ansi"
+  },
+  {
+    "sourceID": "strip-ansi",
+    "targetID": "ansi-regex"
+  },
+  {
+    "sourceID": "@isaacs/cliui",
+    "targetID": "strip-ansi"
+  },
+  {
+    "sourceID": "strip-ansi",
+    "targetID": "ansi-regex"
+  },
+  {
+    "sourceID": "@isaacs/cliui",
+    "targetID": "strip-ansi-cjs"
+  },
+  {
+    "sourceID": "strip-ansi",
+    "targetID": "ansi-regex"
+  },
+  {
+    "sourceID": "@isaacs/cliui",
+    "targetID": "wrap-ansi"
+  },
+  {
+    "sourceID": "wrap-ansi",
+    "targetID": "ansi-styles"
+  },
+  {
+    "sourceID": "wrap-ansi",
+    "targetID": "string-width"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "eastasianwidth"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "emoji-regex"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "strip-ansi"
+  },
+  {
+    "sourceID": "strip-ansi",
+    "targetID": "ansi-regex"
+  },
+  {
+    "sourceID": "wrap-ansi",
+    "targetID": "strip-ansi"
+  },
+  {
+    "sourceID": "strip-ansi",
+    "targetID": "ansi-regex"
+  },
+  {
+    "sourceID": "@isaacs/cliui",
+    "targetID": "wrap-ansi-cjs"
+  },
+  {
+    "sourceID": "wrap-ansi",
+    "targetID": "ansi-styles"
+  },
+  {
+    "sourceID": "wrap-ansi",
+    "targetID": "string-width"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "eastasianwidth"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "emoji-regex"
+  },
+  {
+    "sourceID": "string-width",
+    "targetID": "strip-ansi"
+  },
+  {
+    "sourceID": "strip-ansi",
+    "targetID": "ansi-regex"
+  },
+  {
+    "sourceID": "wrap-ansi",
+    "targetID": "strip-ansi"
+  },
+  {
+    "sourceID": "strip-ansi",
+    "targetID": "ansi-regex"
+  },
+  {
+    "sourceID": "glob",
+    "targetID": "minimatch"
+  },
+  {
+    "sourceID": "minimatch",
+    "targetID": "brace-expansion"
+  },
+  {
+    "sourceID": "brace-expansion",
+    "targetID": "balanced-match"
+  },
+  {
+    "sourceID": "glob",
+    "targetID": "minipass"
+  },
+  {
+    "sourceID": "glob",
+    "targetID": "path-scurry"
+  },
+  {
+    "sourceID": "path-scurry",
+    "targetID": "lru-cache"
+  },
+  {
+    "sourceID": "path-scurry",
+    "targetID": "minipass"
+  },
+  {
+    "sourceID": "panz-cli",
+    "targetID": "path"
+  },
+  {
+    "sourceID": "path",
+    "targetID": "process"
+  },
+  {
+    "sourceID": "path",
+    "targetID": "util"
+  },
+  {
+    "sourceID": "util",
+    "targetID": "inherits"
+  }
+]
